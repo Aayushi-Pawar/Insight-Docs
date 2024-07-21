@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+python-pptx
+python-docx
+pymupdf
+Pillow
+pytesseract
+deep-translator
+gtts
+fpdf
+cohere
+docx2pdf
